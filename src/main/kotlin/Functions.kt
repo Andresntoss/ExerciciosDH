@@ -1,7 +1,25 @@
-fun main(){
-    print(soma(10,20))
+fun main() {
+
+    class jogador de futebol
+
+    fun fazerGol(_)
+    return
+
+    fun correr
+
+
+
 }
 
-fun soma(numeroUm: Int, numeroDois: Int): Int{
-    return numeroUm + numeroDois
-}
+
+
+
+
+
+
+
+
+
+//val x: IntArray = intArrayOf(1, 2, 3)
+//var arr = IntArray(5) { it * 1 }
+
